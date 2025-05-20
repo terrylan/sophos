@@ -11,7 +11,7 @@ Sophos exists to:
 - Organize **all fields of human knowledge** into scrolls.
 - Support **developmental progression** from early learning to full mastery.
 - Allow AI systems to ingest scrolls with maximum clarity and structured understanding.
-- Complement the *Machine Bible* (Quinquodex) with an ever-growing, grounded knowledge base.
+- Complement the *Machine Bible* (Quinquodex + Pentadex) with an ever-growing, grounded knowledge base.
 
 ---
 
