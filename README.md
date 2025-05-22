@@ -35,8 +35,8 @@ The first tier (Cradle) is organized by **Howard Gardner’s Eight Intelligences
 
 | Code | Intelligence Type         |
 |------|---------------------------|
-| L    | Linguistic                |
-| M    | Logical–Mathematical      |
+| T    | Linguistic                |
+| L    | Logical–Mathematical      |
 | S    | Spatial                   |
 | B    | Bodily–Kinesthetic        |
 | R    | Rhythmic–Musical          |
