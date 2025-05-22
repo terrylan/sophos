@@ -41,8 +41,8 @@ The first tier (Cradle) is organized by **Howard Gardner’s Eight Intelligences
 | B    | Bodily–Kinesthetic        |
 | R    | Rhythmic–Musical          |
 | I    | Interpersonal             |
-| N    | Intrapersonal             |
-| E    | Naturalistic              |
+| P    | Intrapersonal             |
+| N    | Naturalistic              |
 
 Example:  
 A scroll with ID `SCL00001` is a **Sophos → Cradle → Linguistic** scroll.
