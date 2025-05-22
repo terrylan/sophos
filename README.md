@@ -39,7 +39,7 @@ The first tier (Cradle) is organized by **Howard Gardner’s Eight Intelligences
 | L    | Logical–Mathematical      |
 | S    | Spatial                   |
 | B    | Bodily–Kinesthetic        |
-| R    | Rhythmic–Musical          |
+| M    | Rhythmic–Musical          |
 | I    | Interpersonal             |
 | P    | Intrapersonal             |
 | N    | Naturalistic              |
