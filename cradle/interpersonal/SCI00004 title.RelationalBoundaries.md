@@ -65,4 +65,5 @@ rituals:
   - name: Boundary Check-In
     trigger: Before and after any group activity
     method: Place a hand on heart and belly, ask internally: 'What do I need more of? Less of? What feels true to say or hold?'
+```
 ---
